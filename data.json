@@ -1,0 +1,578 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 548,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "f9S4EAAAQBAJ",
+      "etag": "rXkHIZPTstI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f9S4EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Crafting Authentic Paper Flowers",
+        "authors": [
+          "Sophie Longhurst"
+        ],
+        "publisher": "White Owl",
+        "publishedDate": "2022-01-12",
+        "description": "\"Exquisite full-page color photos showcase the intricate projects, and the step-by-step instructions are accompanied with photographs. This master class will entice crafters both seasoned and new.\" -Publishers Weekly The delicate art of paper flower craft has been around for centuries, originating in China in 100BC. Since then, the art has remained a powerful tool in calming the mind and encouraging a slower pace of life. Whatever your background, lifestyle or commitments, this book contains projects to nurture your personal skill set. Step-by-step instructions and inspiring illustrations will guide you through the process from start to finish. Paper crafting is an accessible hobby that can be easily practised at home by everyone of all ages. Whether you’re looking for a rewarding activity to share with your children, or something to help you unwind after a long workday, paper flower crafting is a perfect choice. Use your newfound skills to create your own decorations for display or pleasure, and discover the wonder of nature in all its glorious detail by paying special attention to the coloring, textures and intricate details of your projects.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781526784698"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1526784696"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "categories": [
+          "Crafts & Hobbies"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f9S4EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f9S4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=f9S4EAAAQBAJ&printsec=frontcover&dq=Flowers&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=f9S4EAAAQBAJ&dq=Flowers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Crafting_Authentic_Paper_Flowers.html?hl=&id=f9S4EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AM",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Crafting_Authentic_Paper_Flowers-sample-pdf.acsm?id=f9S4EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f9S4EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Since then, the art has remained a powerful tool in calming the mind and encouraging a slower pace of life. Whatever your background, lifestyle or commitments, this book contains projects to nurture your personal skill set."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0bUYvgAACAAJ",
+      "etag": "zEkjXTzS03w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0bUYvgAACAAJ",
+      "volumeInfo": {
+        "title": "ILLUS & MEDITATIONS OR FLOWERS",
+        "authors": [
+          "C. H. (Charles Haddon) 1834-1 Spurgeon"
+        ],
+        "publisher": "Wentworth Press",
+        "publishedDate": "2016-08-26",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1362959995"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781362959991"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 298,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0bUYvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0bUYvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0bUYvgAACAAJ&dq=Flowers&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=0bUYvgAACAAJ&dq=Flowers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/ILLUS_MEDITATIONS_OR_FLOWERS.html?hl=&id=0bUYvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "AM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AM",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0bUYvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JdphDwAAQBAJ",
+      "etag": "09AeTgCP7c4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JdphDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Why Do Plants Have Flowers?",
+        "subtitle": "And Other Questions About Evolution and Classification",
+        "authors": [
+          "Pat Jacobs"
+        ],
+        "publisher": "The Rosen Publishing Group, Inc",
+        "publishedDate": "2016-12-15",
+        "description": "What is a plant? How does it eat? Why does it grow? Readers will answer these questions and more as they discover how to classify plants, identify their parts, and grasp the process of photosynthesis in this engaging text. Helpful diagrams are included to augment descriptions, and bright photographs make information relatable to young readers. Readers will explore plant habitats, observe unique adaptations, and discern how artificial selection and genetic engineering have changed the plants of our world. Stimulating sidebars will inspire budding scientists to pursue even more plant knowledge.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781508153481"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1508153485"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JdphDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JdphDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=JdphDwAAQBAJ&printsec=frontcover&dq=Flowers&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=JdphDwAAQBAJ&dq=Flowers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Why_Do_Plants_Have_Flowers.html?hl=&id=JdphDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AM",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Why_Do_Plants_Have_Flowers-sample-pdf.acsm?id=JdphDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JdphDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "What is a plant? How does it eat? Why does it grow? Readers will answer these questions and more as they discover how to classify plants, identify their parts, and grasp the process of photosynthesis in this engaging text."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FeDyiNv7kxYC",
+      "etag": "eUsv2qDyW44",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FeDyiNv7kxYC",
+      "volumeInfo": {
+        "title": "A Little Book of Flowers",
+        "subtitle": "Lore, Customs, and Language",
+        "authors": [
+          "Dale Evva Gelfand"
+        ],
+        "publisher": "Storey Publishing",
+        "publishedDate": "2004-02",
+        "description": "This lovingly designed, fit-in-the-palm-of-your-hand book suggests simple ways every woman can take a break from her frenetic daily schedule and enjoy a few moments of pampering alone or with family and friends. Almost as good as a bouquet itself, this book, by Dale Evva Gelfand, reveals the secret language of flowers, and suggests ways to express the perfect sentiment.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1580175643"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781580175647"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "categories": [
+          "Self-Help"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FeDyiNv7kxYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FeDyiNv7kxYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FeDyiNv7kxYC&dq=Flowers&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=FeDyiNv7kxYC&dq=Flowers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Little_Book_of_Flowers.html?hl=&id=FeDyiNv7kxYC"
+      },
+      "saleInfo": {
+        "country": "AM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AM",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FeDyiNv7kxYC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Almost as good as a bouquet itself, this book, by Dale Evva Gelfand, reveals the secret language of flowers, and suggests ways to express the perfect sentiment."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TmMYtAEACAAJ",
+      "etag": "4NdamqEdA7w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TmMYtAEACAAJ",
+      "volumeInfo": {
+        "title": "Flowers and Flower Lore (Classic Reprint)",
+        "authors": [
+          "Hilderic Friend"
+        ],
+        "publisher": "Forgotten Books",
+        "publishedDate": "2017-12-27",
+        "description": "Excerpt from Flowers and Flower Lore While the Introduction and' Notes will supply such other information as may be required for the intelligent study of Flower Lore. It is therefore quite unnecessary for me to write a long preface, especially as I have taken pains to acknowledge my obligations to former writers by giving their names and the titles of their works whenever I have been indebted to them. I have every reason to hope that as great care has been taken in the preparation and revision of this work, it may give pleasure and satisfaction to such as, either from the love of Natural History or of Folk Lore, shall make it their study. About the Publisher Forgotten Books publishes hundreds of thousands of rare and classic books. Find more at www.forgottenbooks.com This book is a reproduction of an important historical work. Forgotten Books uses state-of-the-art technology to digitally reconstruct the work, preserving the original format whilst repairing imperfections present in the aged copy. In rare cases, an imperfection in the original, such as a blemish or missing page, may be replicated in our edition. We do, however, repair the vast majority of imperfections successfully; any imperfections that remain are intentionally left to preserve the state of such historical works.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0484909290"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780484909297"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 722,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TmMYtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TmMYtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=TmMYtAEACAAJ&dq=Flowers&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TmMYtAEACAAJ&dq=Flowers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Flowers_and_Flower_Lore_Classic_Reprint.html?hl=&id=TmMYtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "AM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AM",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TmMYtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "About the Publisher Forgotten Books publishes hundreds of thousands of rare and classic books. Find more at www.forgottenbooks.com This book is a reproduction of an important historical work."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UYNMAAAAMAAJ",
+      "etag": "3H5PbgerzCM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UYNMAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Flowers Chronicles",
+        "subtitle": "Studies of Captain John Flower II, 1595-1657, Mariner of London, Bermuda, and Virginia, and Some of His Descendants in the American South",
+        "authors": [
+          "Pugh Brown Flowers"
+        ],
+        "publishedDate": "1987",
+        "description": "John Flower II (1595-1657) was a son of John and Katherine Flower of Ratcliffe, England, and was captain of various ships sailing between England, Bermuda, Virginia and Newfoundland. By 1645 he acquired land in Virginia, although he continued as a ship captain and died in England. John Flower (b.1624) and Jacob Flower (b.1635), two sons of John Flower II, emigrated in 1656 from England to the land purchased by their father in what is now Surry County, Virginia. Descendants (chiefly spelling the surname Flowers) and relatives lived in Virginia, North Carolina, Tennessee, South Carolina, Georgia, Florida, Alabama, Texas and elsewhere. Includes some ancestral records and genealogical data in England to ca. 1542.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89066140096"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 928,
+        "printType": "BOOK",
+        "categories": [
+          "North Carolina"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UYNMAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UYNMAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=UYNMAAAAMAAJ&q=Flowers&dq=Flowers&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=UYNMAAAAMAAJ&dq=Flowers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Flowers_Chronicles.html?hl=&id=UYNMAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "AM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AM",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UYNMAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "APPENDIX A THE CHRISTOPHER \u003cb\u003eFLOWER\u003c/b\u003e FAMILY OF STEPNEY PARISH AND THE LANCASTER - \u003cb\u003eFLOWER\u003c/b\u003e CONNECTION Christopher \u003cb\u003eFlower\u003c/b\u003e of Ratcliffe, shipwright, married Elizabeth Lancaster on October 10, 1565 at the Church of St. Dunstan in the East,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NtTqAAAAMAAJ",
+      "etag": "pRiViVgcdZQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NtTqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Flowers and Nature",
+        "subtitle": "Netherlandish Flower Painting of Four Centuries",
+        "authors": [
+          "Sam Segal"
+        ],
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015021833861"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+          "Art, Dutch"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NtTqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NtTqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=NtTqAAAAMAAJ&q=Flowers&dq=Flowers&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=NtTqAAAAMAAJ&dq=Flowers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Flowers_and_Nature.html?hl=&id=NtTqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "AM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AM",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NtTqAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Netherlandish \u003cb\u003eFlower\u003c/b\u003e Painting of Four Centuries Sam Segal. flowerings of the prolific stock of Dutch seventeenth - century painting , an art which contemporary opinion regarded as having fallen into a sorry state ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OdM7HAAACAAJ",
+      "etag": "PSv8MFtpMnc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OdM7HAAACAAJ",
+      "volumeInfo": {
+        "title": "Flowers",
+        "authors": [
+          "Robert Mapplethorpe"
+        ],
+        "publisher": "Bulfinch Press",
+        "publishedDate": "1994",
+        "description": "A pocket-sized, jacketed gift release of a successful photographic classic features the artist's bold and colorful style, designed for the appeal of both Mapplethorpe fans and flower lovers. Reprint.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0821221515"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780821221518"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "categories": [
+          "Photography"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OdM7HAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OdM7HAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OdM7HAAACAAJ&dq=Flowers&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=OdM7HAAACAAJ&dq=Flowers&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Flowers.html?hl=&id=OdM7HAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "AM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AM",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OdM7HAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A pocket-sized, jacketed gift release of a successful photographic classic features the artist&#39;s bold and colorful style, designed for the appeal of both Mapplethorpe fans and flower lovers. Reprint."
+      }
+    }
+  ]
+}
